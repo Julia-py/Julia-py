@@ -1,4 +1,4 @@
-#<br clear="both"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=header"/> <h2 align="left">Oie👋, Sou Julia Benjamin!<br>Bem-vindo a minha pagina no github, aqui você vai encontrar os projetos que fiz.</h2>
+#<br clear="both"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=header"/> <h2 align="left">Oie👋, Sou Julia Benjamin!<br>Bem-vindo a minha pagina do github, aqui você vai encontrar os projetos que fiz.</h2>
 
 
 <img align="right" height="144" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"  />
