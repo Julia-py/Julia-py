@@ -1,20 +1,18 @@
-#<br clear="both"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=header"/> <h2 align="left">Oie👋, Sou Julia Benjamin!<br>Bem-vindo a minha pagina do github, aqui você vai encontrar os projetos que fiz.</h2>
+<br clear="both"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=header"/>  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Oie👋;Sou+Julia+Benjamin!;Bem-vindo(a)+a+minha+pagina+do+github;Aqui+você+vai+encontrar+os+projetos+que+fiz.;🩷)](https://git.io/typing-svg)
 
 
-<img align="right" height="144" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"  />
 
+<img align="right" height="133" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif"  />
 
 <img align="left" height="133" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
-
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Julia-py&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Julia-py&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=6" height="144" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia-py&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=synthwave&hide_border=true" height="127" alt="languages graph"  />
 </div>
 
-###
+### ⚙️ Trabalhando atualmente com:
 
 <br clear="both">
 
@@ -44,8 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="29" alt="github logo"  />
 </div>
 
-###
-
+### 📱Contatos:
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f0477b&logoColor=f5004b&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=c77ff5&logoColor=8c14da&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -57,3 +54,15 @@
   </a>
 </div>
 
+
+<div aling="center">
+    <img src="https://streak-stats.demolab.com?user=Julia-py&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=6" height="144" alt="streak graph"  />
+</div>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Julia-py}/count.svg" /></p> 
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F73D9F&height=120&section=footer"/>
+</div>
