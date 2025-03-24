@@ -6,14 +6,15 @@
 
 <img align="left" height="133" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 <br clear="both">
-###
+_________________________________________________________________________________________________________________________________________________________________________________________
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Julia-py&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Julia Benjamin github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-py&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
 
 </div>
-###
+
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 ### ⚙️ Trabalhando atualmente com:
 
@@ -45,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="29" alt="github logo"  />
 </div>
 
+__________________________________________________________________________________________________________________________________________________________________________________________
+
 ### 📱Contatos:
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=f0477b&logoColor=f5004b&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -58,6 +61,7 @@
 </div>
 
 
+___________________________________________________________________________________________________________________________________________________________________________________________
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
