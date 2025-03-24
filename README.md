@@ -6,7 +6,7 @@
 
 <img align="left" height="133" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 <br clear="both">
-_________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Julia-py&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Julia Benjamin github stats" /> 
