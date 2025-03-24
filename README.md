@@ -6,12 +6,14 @@
 
 <img align="left" height="133" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 <br clear="both">
+###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julia-py&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true" height="150" alt="stats graph"  />
-   <img src="https://streak-stats.demolab.com?user=Julia-py&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=6" height="144" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia-py&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=synthwave&hide_border=true" height="127" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Julia-py&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Julia Benjamin github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-py&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
+
 </div>
+###
 
 ### ⚙️ Trabalhando atualmente com:
 
