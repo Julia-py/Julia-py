@@ -61,6 +61,24 @@ Gosto de transformar ideias em código e estou sempre buscando aprender algo nov
 
 </div>
 
+---
+
+📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=julia-py&show_icons=true&theme=omni" alt="GitHub Stats">
+
+</div>
+
+---
+🔥 Minha sequência
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=julia-py&theme=omni" alt="GitHub Streak">
+
+</div>
 
 ---
 
