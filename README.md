@@ -27,7 +27,6 @@ Gosto de transformar ideias em código e estou sempre buscando aprender algo nov
 * 🐍 **Python**
 * ☕ **Java**
 * 🌐 **HTML, CSS e JavaScript**
-* 🎨 **UI/UX e prototipação**
 * 🛠️ **Git e GitHub**
 * 💻 **Desenvolvimento de software**
 
