@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: julia-py
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=F73D9F&color_dots=#FFD1E6,#FFB3D9,#FF8FC7,#F73D9F,#D91B7A
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
