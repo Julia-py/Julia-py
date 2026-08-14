@@ -61,15 +61,6 @@ Gosto de transformar ideias em código e estou sempre buscando aprender algo nov
 
 </div>
 
----
-
-## 🔥 Minha sequência
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=julia-py&theme=omni&hide_border=true&border_radius=10&ring=F73D9F&fire=F73D9F&currStreakLabel=F73D9F" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
