@@ -63,17 +63,29 @@ Estou sempre buscando aprender coisas novas, melhorar minhas habilidades e trans
 </div>
 
 ---
-
-## 📊 GitHub Stats
+📂 Meus projetos
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=juliabenjamin&show_icons=true&count_private=true&hide_border=true&title_color=F73D9F&icon_color=F73D9F&text_color=555&bg_color=fff0f6" />
+<a href="https://github.com/julia-py?tab=repositories"> <img src="https://img.shields.io/badge/VER%20MEUS%20PROJETOS-F73D9F?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabenjamin&layout=compact&hide_border=true&title_color=F73D9F&text_color=555&bg_color=fff0f6" />
+<br><br>
+
+💗 Cada projeto representa um pouco da minha evolução na programação.
 
 </div>
 
+📊 GitHub
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/julia-py?style=for-the-badge&logo=github&label=SEGUIDORES&color=F73D9F" />
+
+<img src="https://img.shields.io/github/stars/julia-py?style=for-the-badge&logo=github&label=STARS&color=F73D9F" />
+
+<img src="https://img.shields.io/github/repositories/julia-py?style=for-the-badge&logo=github&label=REPOSITÓRIOS&color=F73D9F" />
+
+</div>
 ---
 
 ## 🌸 Meus projetos
